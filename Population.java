@@ -5,12 +5,12 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 /**
- *	Population - <description goes here>
+ *	Population - Answers various queries about the cities in the USA
  *
  *	Requires FileUtils and Prompt classes.
  *
- *	@author	
- *	@since	
+ *	@author	Nishant Chatterjee
+ *	@since January 17, 2022
  */
 public class Population {
 	
